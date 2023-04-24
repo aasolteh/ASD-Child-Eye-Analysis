@@ -1,0 +1,52 @@
+2022-06-23 14:47:50.769973: Initialized controller
+2022-06-23 14:47:51.814294: Controller requesting connection to SimpleGazeTracker...
+2022-06-23 14:47:51.867973: Controller connection established
+2022-06-23 14:47:51.973382: starting calibration loop...
+2022-06-23 14:48:16.982404: Calibration loop completed successfully
+2022-06-23 14:48:19.006678: 	Path of Image: #2
+2022-06-23 14:48:19.017392: 	Image of Path: #2
+2022-06-23 14:48:19.774767: 	Image of Path: #3
+2022-06-23 14:48:24.223504: 	Image of Path: #4
+2022-06-23 14:48:29.382642: 	Image of Path: #5
+2022-06-23 14:48:35.095170: 	Image of Path: #6
+2022-06-23 14:48:41.206881: 	Image of Path: #7
+2022-06-23 14:48:48.015457: 	Image of Path: #8
+2022-06-23 14:48:54.910897: 	Image of Path: #9
+2022-06-23 14:49:02.190911: 	Image of Path: #10
+2022-06-23 14:49:07.511058: 	Image of Path: #11
+2022-06-23 14:49:12.606891: 	Image of Path: #12
+2022-06-23 14:49:19.551130: 	Image of Path: #13
+2022-06-23 14:49:24.711267: 	Image of Path: #14
+2022-06-23 14:49:32.647098: 	Image of Path: #15
+2022-06-23 14:49:39.566936: 	Image of Path: #16
+2022-06-23 14:49:45.255065: 	Image of Path: #17
+2022-06-23 14:49:51.895793: 	Image of Path: #18
+2022-06-23 14:49:58.526713: 	Image of Path: #19
+2022-06-23 14:50:06.479187: 	Image of Path: #20
+2022-06-23 14:50:11.959400: 	Image of Path: #21
+2022-06-23 14:50:16.862823: 	Image of Path: #22
+2022-06-23 14:50:22.230822: 	Image of Path: #23
+2022-06-23 14:50:27.086424: 	Image of Path: #24
+2022-06-23 14:50:33.487031: 	Image of Path: #25
+2022-06-23 14:50:38.935063: 	Image of Path: #26
+2022-06-23 14:50:44.015142: 	Image of Path: #27
+2022-06-23 14:50:51.318576: 	Image of Path: #28
+2022-06-23 14:50:56.895442: 	Image of Path: #29
+2022-06-23 14:51:05.031350: 	Image of Path: #30
+2022-06-23 14:51:10.127044: 	Image of Path: #31
+2022-06-23 14:51:14.318982: 	Image of Path: #32
+2022-06-23 14:51:20.727412: 	Image of Path: #33
+2022-06-23 14:51:27.167029: 	Image of Path: #34
+2022-06-23 14:51:33.086467: 	Image of Path: #35
+2022-06-23 14:51:38.366627: 	Image of Path: #36
+2022-06-23 14:51:44.159212: 	Image of Path: #37
+2022-06-23 14:51:49.359341: 	Image of Path: #38
+2022-06-23 14:51:55.823363: 	Image of Path: #39
+2022-06-23 14:52:00.951268: 	Image of Path: #40
+2022-06-23 14:52:07.631010: 	Image of Path: #41
+2022-06-23 14:52:13.159098: 	Image of Path: #42
+2022-06-23 14:52:17.727731: 	Path of Image: #3
+2022-06-23 14:52:17.743373: 	Image of Path: #2
+2022-06-23 14:52:53.039409: 	Image of Path: #3
+2022-06-23 14:53:37.430815: 	Image of Path: #4
+2022-06-23 14:54:15.963318: Recording Completed

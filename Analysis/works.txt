@@ -1,0 +1,3 @@
+reading duration
+average saccade rate
+average macro-saccade rate
